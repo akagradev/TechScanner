@@ -1,0 +1,15 @@
+COMPANIES = [
+    "NVIDIA",
+    "AMD",
+    "Micron",
+    "Broadcom",
+    "Marvell",
+    "Meta",
+    "Microsoft",
+    "Google",
+    "Amazon",
+    "OpenAI",
+    "Anthropic",
+    "Nebius",
+    "CoreWeave",
+]
